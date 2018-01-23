@@ -39,7 +39,7 @@ public class BMIActivity extends AppCompatActivity implements AdapterView.OnItem
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_bmi);
+        setContentView(R.layout.test2);
 
         spinner_Length = (Spinner) findViewById(R.id.spinner1);
         spinner_Weight = (Spinner) findViewById(R.id.spinner2);
